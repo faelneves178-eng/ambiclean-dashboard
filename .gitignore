@@ -1,0 +1,9 @@
+venv/
+*.pyc
+__pycache__/
+*.pdf
+*.docx
+*.xlsx
+*.jpg
+*.png
+*.zip
